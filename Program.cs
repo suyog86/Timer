@@ -16,7 +16,8 @@ namespace Timer
         List<string> arrPrinters = new List<string>();
         Dictionary<string, int> perfmonValues = new Dictionary<string, int>();
         bool bDeletePrevious = false;
-
+	
+	//adding sample comment
         static void Main(string[] args)
         {
             Program test = new Program();
